@@ -1,5 +1,5 @@
 # task_2
-Conversion of same menu which I created in my last task into CGI
+Converted the OS based program into a menu-driven program using CGI.
 # Initiative under IIEC-RISE
 Under the mentorship of Vimal Daga, I have completed my second task of python training.
 # Features
